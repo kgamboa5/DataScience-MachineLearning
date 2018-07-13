@@ -1,1 +1,1 @@
-# DataScience and MachineLearning projects may be found within this repository.
+# Data Science and Machine Learning projects can be found within this repository.
